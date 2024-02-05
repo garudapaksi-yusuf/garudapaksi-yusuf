@@ -1,12 +1,18 @@
-### Hi there 👋
+### Garudapaksi Yusuf
 
+- 🎓 Bachelor of Management, Universitas Terbuka
+- 🎓 Digital Talent Scholarship 2019 recipient (e-Certificate not available😁. Will upload certificate elsewhere...)
+- 🎓 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MNRRKRDCGJEQ16CN">AWS Certified Cloud Practitioner</a>
+- 🎓 <a href="https://progate.com/course_certificate/88ba7d4dqnw2ty">Completed Python Fundamental Course @ Progate </a>
+
+- 🌱 Learning: Logistic Regression
+- 🌱 Also going to learn: SQL & Tableau...
+- 🌱 ...as student of Purwadhika Digital School
 <!--
 **garudapaksi-yusuf/garudapaksi-yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
