@@ -6,7 +6,7 @@
 - 🎓 <a href="https://progate.com/course_certificate/88ba7d4dqnw2ty">Completed Python Fundamental Course @ Progate </a> (Already forgotten most of its lessons...)
 
 - 🌱 Learning: Logistic Regression
-- 🌱 Also going to re-learn: <div><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></div>
+- 🌱 Also going to re-learn: <img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="right" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 - 🌱 ...as student of Purwadhika Digital School
 <!--
 **garudapaksi-yusuf/garudapaksi-yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
