@@ -2,7 +2,7 @@
 
 - 🎓 Bachelor of Management, Universitas Terbuka
 - 🎓 Digital Talent Scholarship 2019 recipient (e-Certificate not available😁. Will upload certificate elsewhere...)
-- 🎓 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MNRRKRDCGJEQ16CN">AWS Certified Cloud Practitioner</a>
+- 🎓 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MNRRKRDCGJEQ16CN">AWS Certified Cloud Practitioner</a> (Expired🤣)
 - 🎓 <a href="https://progate.com/course_certificate/88ba7d4dqnw2ty">Completed Python Fundamental Course @ Progate </a>
 
 - 🌱 Learning: Logistic Regression
