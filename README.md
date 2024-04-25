@@ -1,22 +1,3 @@
 ### Garudapaksi Yusuf
 
-- 🎓 Bachelor of Management, Universitas Terbuka
-- 🎓 <a href="https://drive.google.com/file/d/1ce27JrH8iFgth0x0ayPXVOX0x6ounHIP/view?usp=sharing">Digital Talent Scholarship 2019 recipient</a>
-- 🎓 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/MNRRKRDCGJEQ16CN">AWS Certified Cloud Practitioner</a> (Expired🤣)
-- 🎓 <a href="https://progate.com/course_certificate/88ba7d4dqnw2ty">Completed Python Fundamental Course @ Progate</a> (Already forgotten most of its lessons...)
-
-- 🌱 Learning: Logistic Regression
-- 🌱 Also going to re-learn: <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-- 🌱 ...as student of Purwadhika Digital School
-<!--
-**garudapaksi-yusuf/garudapaksi-yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/><img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/><img alt="NumPy" width="50px" src="https://raw.githubusercontent.com/numpy/numpy/5edf018a070f0677ac8818c40d55c58b26a61ee4/branding/logo/logomark/numpylogoicon.svg"/><img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/><img alt="SciPy" width="50px" src="https://raw.githubusercontent.com/scipy/scipy.org/af3fc849828a03cab1ba387d45dd25816ede7e23/static/images/logo.svg"/><img alt="Vega-Altair" width="50px" src="https://altair-viz.github.io/_static/altair-logo-light.png"/><img alt="Scikit-Learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
